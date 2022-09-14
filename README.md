@@ -17,19 +17,19 @@ The resources used in this analysis are six csv files from the company containin
 
 The first deliverable is a list of the retiring employees, the head of which is shown below:
 
- ![retirement_titles.png](retirement_titles.png)
+ ![retirement_titles.png](/Resources/retirement_titles.png)
 
 This table contains 133,776 rows! This is a lot of data. However, as can be seen by just the first ten rows some of the names are repeating, most likely because of different employees holding different titles throughout their time at the company. The total number of retiring employees is therefore incorrect and the code needs to be factored to make sure each emplyee is only included once. This is done by using the DISTINCT ON code on the employee numbers, telling SQL to only include an employee if their employee number has not been added to the query. The head of these results are shown below:
 
- ![unique_titles.png](unique_titles.png)
+ ![unique_titles.png](/Resources/unique_titles.png)
 
 The updated table contains 72,458 rows and you can see there are no longer any repeating employees. Now that an accurate number of employees retiring has been found, the number of employees for each title was found using the GROUP BY function in SQL on this unique titles table. The results of this are shown below:
 
-![retiring_titles.png](retiring_titles.png)
+![retiring_titles.png](/Resources/retiring_titles.png)
 
 The final deliverable Pewlett Hackard wants to know is how many of the current employees are eligible to participate in a mentorship program. This is where the current employee mentors a rising or new employee to take over a higher position. This is obvioulsy of high interest to Pewlett Hackard considering how many employees are about to retire. The first ten rows of this data are shown below:
 
-![mentorship_eligibility.png](mentorship_eligibility.png)
+![mentorship_eligibility.png](/Resources/mentorship_eligibility.png)
 
 Overall, these results show:
 * 72,458 are due to retire from Pewlett Hackard
