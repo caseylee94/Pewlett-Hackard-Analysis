@@ -36,3 +36,6 @@ Overall, these results show:
 * The titles with the greatest number of retirees (around 25,000) are Senior Engineer and Senior Staff
 * The engineering department will be the most affected as there are significant numbers of Senior Engineers, Assistant Engineers, and Engineers retiring
 * There are 1549 employees eligible to become a mentor
+
+## Summary
+
