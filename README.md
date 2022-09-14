@@ -21,4 +21,4 @@ The first deliverable is a list of the retiring employees, the head of which is 
 
 This table contains 133,776 rows! This is a lot of data. However, as can be seen by just the first ten rows some of the names are repeating, most likely because of different employees holding different titles throughout their time at the company. The total number of retiring employees is therefore incorrect and the code needs to be factored to make sure each emplyee is only included once. This is done by using the DISTINCT ON code on the employee numbers, telling SQL to only include an employee if their employee number has not been added to the query. The head of these results are shown below:
 
-
+![unique_titles.png](unique_titles.png)
