@@ -30,3 +30,9 @@ The updated table contains 72,458 rows and you can see there are no longer any r
 The final deliverable Pewlett Hackard wants to know is how many of the current employees are eligible to participate in a mentorship program. This is where the current employee mentors a rising or new employee to take over a higher position. This is obvioulsy of high interest to Pewlett Hackard considering how many employees are about to retire. The first ten rows of this data are shown below:
 
 ![mentorship_eligibility.png](mentorship_eligibility.png)
+
+Overall, these results show:
+* 72,458 are due to retire from Pewlett Hackard
+* The titles with the greatest number of retirees (around 25,000) are Senior Engineer and Senior Staff
+* The engineer department will be the most affected as there are significant numbers of Senior Engineers, Assistant Engineers, and Engineers retiring
+* There are 1549 employees eligible to become a mentor
