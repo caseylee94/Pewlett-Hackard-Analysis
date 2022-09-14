@@ -23,6 +23,10 @@ This table contains 133,776 rows! This is a lot of data. However, as can be seen
 
  ![unique_titles.png](unique_titles.png)
 
-The updated table contains 72,458 rows and you can see there are no longer any repeating employees. Now that an accurate number of employees retiring has been found, the number of employees for each title was found using the GROUP BY function in SQL. The results of this are shown below:
+The updated table contains 72,458 rows and you can see there are no longer any repeating employees. Now that an accurate number of employees retiring has been found, the number of employees for each title was found using the GROUP BY function in SQL on this unique titles table. The results of this are shown below:
 
 ![retiring_titles.png](retiring_titles.png)
+
+The final deliverable Pewlett Hackard wants to know is how many of the current employees are eligible to participate in a mentorship program. This is where the current employee mentors a rising or new employee to take over a higher position. This is obvioulsy of high interest to Pewlett Hackard considering how many employees are about to retire. The first ten rows of this data are shown below:
+
+![mentorship_eligibility.png](mentorship_eligibility.png)
