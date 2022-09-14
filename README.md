@@ -23,4 +23,6 @@ This table contains 133,776 rows! This is a lot of data. However, as can be seen
 
  ![unique_titles.png](unique_titles.png)
 
-The updated table contains 72,458 rows and you can see there are no longer any repeating employees.
+The updated table contains 72,458 rows and you can see there are no longer any repeating employees. Now that an accurate number of employees retiring has been found, the number of employees for each title was found using the GROUP BY function in SQL. The results of this are shown below:
+
+![retiring_titles.png](retiring_titles.png)
