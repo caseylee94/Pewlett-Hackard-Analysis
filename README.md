@@ -16,4 +16,5 @@ The resources used in this analysis are six csv files from the company containin
 ## Results
 
 The first deliverable is a list of the retiring employees, the head of which is shown below:
+
 ![retirement_titles.png](retirement_titles.png)
