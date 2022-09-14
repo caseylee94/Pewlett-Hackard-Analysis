@@ -34,5 +34,5 @@ The final deliverable Pewlett Hackard wants to know is how many of the current e
 Overall, these results show:
 * 72,458 are due to retire from Pewlett Hackard
 * The titles with the greatest number of retirees (around 25,000) are Senior Engineer and Senior Staff
-* The engineer department will be the most affected as there are significant numbers of Senior Engineers, Assistant Engineers, and Engineers retiring
+* The engineering department will be the most affected as there are significant numbers of Senior Engineers, Assistant Engineers, and Engineers retiring
 * There are 1549 employees eligible to become a mentor
