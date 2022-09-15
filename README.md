@@ -27,7 +27,7 @@ The updated table contains 72,458 rows and you can see there are no longer any r
 
 ![retiring_titles.png](/Resources/retiring_titles.png)
 
-The final deliverable Pewlett Hackard wants to know is how many of the current employees are eligible to participate in a mentorship program. This is where the current employee mentors a rising or new employee to take over a higher position. This is obvioulsy of high interest to Pewlett Hackard considering how many employees are about to retire. The first ten rows of this data are shown below:
+The final deliverable Pewlett Hackard wants to know is how many of the current employees are eligible to participate in a mentorship program. This is where the current employee mentors a rising or new employee to take over a higher position. This is obviously of high interest to Pewlett Hackard considering how many employees are about to retire. The first ten rows of this data are shown below:
 
 ![mentorship_eligibility.png](/Resources/mentorship_eligibility.png)
 
