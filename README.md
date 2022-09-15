@@ -40,5 +40,6 @@ Overall, these results show:
 ## Summary
 
 As this silver tsunami begins to make an impact, Pewlett Hackard needs to apply a large percentage of their resources into hiring and training new employees to mitigate this loss. According to the results found in this analysis, 72,458 employees will be retiring. Pewlett Hackard should also look into the positions themselves and see if any restructuring within the company could be done to reduce the amount of employees by consolidating work load. This could be a good opportunity to allow the space for this restructuring, and I definitely recommend using this as an opportunity to explore this option. 
+
 There are not enough employees qualified to mentor every new employee that will need to be hired or moved up within the company. I recommend the mentors being used in the areas that are most important for the company if possible. It may be the case that the mentors are determined simply by what department they are working and therefore are qualified. 
 
